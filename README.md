@@ -1,2 +1,2 @@
 # QuiKGames
-Collection of quick and small gamesin godot
+Collection of quick and small games in godot
